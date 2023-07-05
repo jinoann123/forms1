@@ -1,0 +1,13 @@
+.container {
+    background-image: url('stu.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    font-family: serif;
+    color:black;
+    text-decoration-color: brown;
+    
+}
